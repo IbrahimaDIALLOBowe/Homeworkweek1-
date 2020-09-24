@@ -121,3 +121,62 @@ Stackshare seems to indicate that Intuit, parent company of Mint, uses a huge nu
 - Why are these technologies appropriate for your solution?
 
 The Stackshare technologies above appear to have been proven successful for Mint’s parent company, Intuit.
+
+## Sources
+
+[Mint alternatives](https://clubthrifty.com/mint-com-alternatives/?utm_source=google&utm_medium=cpc&utm_campaign=1500131923&utm_content=286637759011&utm_term=mint.com)
+
+[The balanche](https://www.thebalance.com/mint-com-manages-accounts-budgets-and-more-online-1293882)
+
+[Intuit](https://www.intuit.com/company/)
+
+[Bing](https://www.bing.com/search?q=history+of+intuit&cvid=05ea9618904f488ab463805bbbb62ef8&pglt=43&FORM=ANNTA1&PC=U531  )
+
+[Wikipedia](https://en.wikipedia.org/wiki/Intuit#History)
+
+[Mint intuit](https://mint.intuit.com/welcome.event)
+
+[bing](https://www.bing.com/search?q=is%20mint%20free&qs=n&form=QBRE&sp=-1&pq=is%20mint%20free&sc=4-12&sk=&cvid=D68850E4813D47048841F6E87071344B)
+
+[Wikipia Mint](https://en.wikipedia.org/wiki/Mint.com)
+
+[Angel investor](https://en.wikipedia.org/wiki/Angel_investor)
+
+[Forbes](https://www.forbes.com/sites/kellyannesmith/2020/02/12/the-future-of-personal-finance-fintech-50-2020/#2f0af19efd43)
+
+[Investor junkie](https://investorjunkie.com/reviews/mint-com/)
+
+[Youtube](https://www.youtube.com/watch?v=SI8LhslM8UQ)
+
+[Wiki](https://en.wikipedia.org/wiki/Intuit)
+
+[History](https://www.mint.com/history/investors  )
+
+[coinpress](https://coinpress.io/what-is-mint-com/)
+
+[Mint](https://www.mint.com/)
+
+[Neilpatel](https://neilpatel.com/blog/how-mint-grew/ )
+
+[Pcmag](https://www.pcmag.com/reviews/mintcom)
+[](https://www.forbes.com/sites/kellyannesmith/2020/02/12/the-future-of-personal-finance-fintech-50-2020/#2b23dfa3fd43)
+
+[Investopedia](https://www.investopedia.com/best-accounting-software-5069131)
+
+[Fastcompany](https://www.fastcompany.com/90453586/what-the-hell-happened-to-mint )
+
+[Fastcompany](https://www.fastcompany.com/90453586/what-the-hell-happened-to-mint )
+
+[doughroller](https://www.doughroller.net/money-management/tools-money-management/quicken-vs-mint/)
+
+[doughroller](https://www.doughroller.net/money-management/tools-money-management/quicken-vs-mint/)
+
+[Github](https://github.com/Syriacode/09-19CaseStudy.git)
+
+[](https://www.youtube.com/watch?v=SI8LhslM8UQ)
+
+[Fastcompany]( https://www.fastcompany.com/90453586/what-the-hell-happened-to-mint)
+
+
+
+
