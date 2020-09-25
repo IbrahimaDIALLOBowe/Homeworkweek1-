@@ -11,7 +11,7 @@
 
 - How did the idea for the company (or project) come about?: 
 ![alt text](Mint.jpg)
-Mr. Cook’s prior work at Procter & Gamble helped him realize that personal computers would lend themselves towards replacement of paper-and-pencil based personal accounting.  (The Mint personal finance app was first offered in 2006 and acquired by Intuit in 2009 for $170 million.)  
+Mr. Cook’s prior work at Procter & Gamble helped him realize that personal computers would lend themselves towards replacement of paper-and-pencil based personal accounting.  (The Mint personal finance app was first offered in 2006 and acquired by Intuit in 2009 for $170 million.) [^1]  
 
 - How is the company funded? How much funding have they received? 
 
@@ -180,3 +180,4 @@ The Stackshare technologies above appear to have been proven successful for Mint
 
 
 
+[^1]:https://en.wikipedia.org/wiki/Intuit
